@@ -1,0 +1,330 @@
+User belongs to experiment group 'AlwaysDisplayTestExplorer - experiment'
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - control'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - experiment'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonSendEntireLineToREPL'
+User belongs to experiment group 'pythonInstallPylintButtonFirst'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Starting Jedi Python language engine.
+Python interpreter path: /usr/bin/python
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> conda --version
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/.vscode/extensions/ms-python.python-2020.12.424452561/out/client
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/.vscode/extensions/ms-python.python-2020.12.424452561/out/client
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/.vscode/extensions/ms-python.python-2020.12.424452561/out/client
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/.vscode/extensions/ms-python.python-2020.12.424452561/out/client
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/.vscode/extensions/ms-python.python-2020.12.424452561/out/client
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/.vscode/extensions/ms-python.python-2020.12.424452561/out/client
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/.vscode/extensions/ms-python.python-2020.12.424452561/out/client
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/.vscode/extensions/ms-python.python-2020.12.424452561/out/client
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/completion.py
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/completion.py
+Error 2021-01-21 20:06:28: stderr jediProxy Error (stderr) /home/arco/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/.config/qtile/config.py
+cwd: ~/.config/qtile
+> python ~/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/.config/qtile/config.py
+cwd: ~/.config/qtile
+##########Linting Output - flake8##########
+29,1,F,F401:'re' imported but unused
+32,1,F,F811:redefinition of unused 'Drag' from line 32
+32,1,F,F401:'libqtile.config.Click' imported but unused
+32,1,F,F401:'libqtile.config.Rule' imported but unused
+35,1,F,F401:'libqtile.widget.Spacer' imported but unused
+37,1,E,E265:block comment should start with '# '
+39,1,E,E265:block comment should start with '# '
+52,1,E,E302:expected 2 blank lines, found 1
+58,1,E,E305:expected 2 blank lines after class or function definition, found 1
+60,1,E,E122:continuation line missing indentation or outdented
+64,1,E,E122:continuation line missing indentation or outdented
+92,1,E,E122:continuation line missing indentation or outdented
+95,80,E,E501:line too long (153 > 79 characters)
+101,1,E,E122:continuation line missing indentation or outdented
+110,80,E,E501:line too long (84 > 79 characters)
+115,80,E,E501:line too long (95 > 79 characters)
+125,1,E,E122:continuation line missing indentation or outdented
+139,1,E,E122:continuation line missing indentation or outdented
+141,80,E,E501:line too long (93 > 79 characters)
+142,80,E,E501:line too long (93 > 79 characters)
+143,80,E,E501:line too long (93 > 79 characters)
+144,80,E,E501:line too long (93 > 79 characters)
+146,1,E,E122:continuation line missing indentation or outdented
+150,1,E,E122:continuation line missing indentation or outdented
+152,80,E,E501:line too long (124 > 79 characters)
+156,1,E,E122:continuation line missing indentation or outdented
+158,1,E,E122:continuation line missing indentation or outdented
+162,1,E,E122:continuation line missing indentation or outdented
+172,1,E,E122:continuation line missing indentation or outdented
+173,1,E,E122:continuation line missing indentation or outdented
+174,1,E,E122:continuation line missing indentation or outdented
+175,1,E,E122:continuation line missing indentation or outdented
+177,1,E,E122:continuation line missing indentation or outdented
+181,1,E,E122:continuation line missing indentation or outdented
+192,1,E,E122:continuation line missing indentation or outdented
+239,1,E,E122:continuation line missing indentation or outdented
+242,1,E,E122:continuation line missing indentation or outdented
+248,1,E,E122:continuation line missing indentation or outdented
+254,1,E,E122:continuation line missing indentation or outdented
+260,1,E,E122:continuation line missing indentation or outdented
+261,64,E,E231:missing whitespace after ','
+266,64,E,E231:missing whitespace after ','
+269,1,E,E265:block comment should start with '# '
+269,80,E,E501:line too long (131 > 79 characters)
+271,1,E,E265:block comment should start with '# '
+272,65,E,E231:missing whitespace after ','
+273,1,E,E265:block comment should start with '# '
+273,80,E,E501:line too long (103 > 79 characters)
+275,80,E,E501:line too long (147 > 79 characters)
+275,146,E,E231:missing whitespace after ','
+276,1,E,E265:block comment should start with '# '
+276,80,E,E501:line too long (130 > 79 characters)
+289,1,E,E122:continuation line missing indentation or outdented
+289,1,E,E265:block comment should start with '# '
+295,1,E,E122:continuation line missing indentation or outdented
+296,9,E,E265:block comment should start with '# '
+297,1,E,E122:continuation line missing indentation or outdented
+298,64,E,E203:whitespace before ','
+298,80,E,E501:line too long (97 > 79 characters)
+303,21,E,E231:missing whitespace after ':'
+304,27,E,E231:missing whitespace after ':'
+309,1,E,E305:expected 2 blank lines after class or function definition, found 1
+313,80,E,E501:line too long (96 > 79 characters)
+314,80,E,E501:line too long (96 > 79 characters)
+344,25,E,E251:unexpected spaces around keyword / parameter equals
+344,27,E,E251:unexpected spaces around keyword / parameter equals
+345,24,E,E251:unexpected spaces around keyword / parameter equals
+345,26,E,E251:unexpected spaces around keyword / parameter equals
+348,1,E,E305:expected 2 blank lines after class or function definition, found 1
+350,1,E,E302:expected 2 blank lines, found 1
+351,5,F,F841:local variable 'prompt' is assigned to but never used
+354,34,E,E251:unexpected spaces around keyword / parameter equals
+354,36,E,E251:unexpected spaces around keyword / parameter equals
+355,32,E,E251:unexpected spaces around keyword / parameter equals
+355,34,E,E251:unexpected spaces around keyword / parameter equals
+356,35,E,E251:unexpected spaces around keyword / parameter equals
+356,37,E,E251:unexpected spaces around keyword / parameter equals
+357,35,E,E251:unexpected spaces around keyword / parameter equals
+357,37,E,E251:unexpected spaces around keyword / parameter equals
+359,16,E,E131:continuation line unaligned for hanging indent
+360,25,E,E128:continuation line under-indented for visual indent
+360,33,E,E251:unexpected spaces around keyword / parameter equals
+360,35,E,E251:unexpected spaces around keyword / parameter equals
+361,25,E,E128:continuation line under-indented for visual indent
+361,33,E,E251:unexpected spaces around keyword / parameter equals
+361,35,E,E251:unexpected spaces around keyword / parameter equals
+362,25,E,E128:continuation line under-indented for visual indent
+362,33,E,E251:unexpected spaces around keyword / parameter equals
+362,35,E,E251:unexpected spaces around keyword / parameter equals
+363,25,E,E128:continuation line under-indented for visual indent
+363,34,E,E251:unexpected spaces around keyword / parameter equals
+363,36,E,E251:unexpected spaces around keyword / parameter equals
+364,25,E,E128:continuation line under-indented for visual indent
+364,34,E,E251:unexpected spaces around keyword / parameter equals
+364,36,E,E251:unexpected spaces around keyword / parameter equals
+365,25,E,E128:continuation line under-indented for visual indent
+365,36,E,E251:unexpected spaces around keyword / parameter equals
+365,38,E,E251:unexpected spaces around keyword / parameter equals
+366,25,E,E128:continuation line under-indented for visual indent
+366,37,E,E251:unexpected spaces around keyword / parameter equals
+366,39,E,E251:unexpected spaces around keyword / parameter equals
+367,25,E,E128:continuation line under-indented for visual indent
+367,31,E,E251:unexpected spaces around keyword / parameter equals
+367,33,E,E251:unexpected spaces around keyword / parameter equals
+368,25,E,E128:continuation line under-indented for visual indent
+368,33,E,E251:unexpected spaces around keyword / parameter equals
+368,35,E,E251:unexpected spaces around keyword / parameter equals
+369,25,E,E128:continuation line under-indented for visual indent
+369,32,E,E251:unexpected spaces around keyword / parameter equals
+369,34,E,E251:unexpected spaces around keyword / parameter equals
+370,25,E,E128:continuation line under-indented for visual indent
+370,41,E,E251:unexpected spaces around keyword / parameter equals
+370,43,E,E251:unexpected spaces around keyword / parameter equals
+371,25,E,E128:continuation line under-indented for visual indent
+371,51,E,E251:unexpected spaces around keyword / parameter equals
+371,53,E,E251:unexpected spaces around keyword / parameter equals
+372,25,E,E128:continuation line under-indented for visual indent
+372,35,E,E251:unexpected spaces around keyword / parameter equals
+372,37,E,E251:unexpected spaces around keyword / parameter equals
+373,25,E,E128:continuation line under-indented for visual indent
+373,35,E,E251:unexpected spaces around keyword / parameter equals
+373,37,E,E251:unexpected spaces around keyword / parameter equals
+374,25,E,E124:closing bracket does not match visual indentation
+375,16,E,E131:continuation line unaligned for hanging indent
+376,34,E,E251:unexpected spaces around keyword / parameter equals
+376,36,E,E251:unexpected spaces around keyword / parameter equals
+377,32,E,E251:unexpected spaces around keyword / parameter equals
+377,34,E,E251:unexpected spaces around keyword / parameter equals
+378,35,E,E251:unexpected spaces around keyword / parameter equals
+378,37,E,E251:unexpected spaces around keyword / parameter equals
+379,35,E,E251:unexpected spaces around keyword / parameter equals
+379,37,E,E251:unexpected spaces around keyword / parameter equals
+381,16,E,E131:continuation line unaligned for hanging indent
+382,29,E,E251:unexpected spaces around keyword / parameter equals
+382,31,E,E251:unexpected spaces around keyword / parameter equals
+383,35,E,E251:unexpected spaces around keyword / parameter equals
+383,37,E,E251:unexpected spaces around keyword / parameter equals
+384,35,E,E251:unexpected spaces around keyword / parameter equals
+384,37,E,E251:unexpected spaces around keyword / parameter equals
+386,16,E,E131:continuation line unaligned for hanging indent
+387,34,E,E251:unexpected spaces around keyword / parameter equals
+387,36,E,E251:unexpected spaces around keyword / parameter equals
+388,32,E,E251:unexpected spaces around keyword / parameter equals
+388,34,E,E251:unexpected spaces around keyword / parameter equals
+389,35,E,E251:unexpected spaces around keyword / parameter equals
+389,37,E,E251:unexpected spaces around keyword / parameter equals
+390,35,E,E251:unexpected spaces around keyword / parameter equals
+390,37,E,E251:unexpected spaces around keyword / parameter equals
+392,16,E,E131:continuation line unaligned for hanging indent
+393,25,E,E128:continuation line under-indented for visual indent
+393,33,E,E251:unexpected spaces around keyword / parameter equals
+393,35,E,E251:unexpected spaces around keyword / parameter equals
+394,25,E,E128:continuation line under-indented for visual indent
+394,35,E,E251:unexpected spaces around keyword / parameter equals
+394,37,E,E251:unexpected spaces around keyword / parameter equals
+395,25,E,E128:continuation line under-indented for visual indent
+395,35,E,E251:unexpected spaces around keyword / parameter equals
+395,37,E,E251:unexpected spaces around keyword / parameter equals
+396,25,E,E124:closing bracket does not match visual indentation
+397,16,E,E131:continuation line unaligned for hanging indent
+440,80,E,E501:line too long (110 > 79 characters)
+451,80,E,E501:line too long (87 > 79 characters)
+468,1,W,W191:indentation contains tabs
+468,1,E,E101:indentation contains mixed spaces and tabs
+468,13,E,E131:continuation line unaligned for hanging indent
+474,32,E,E251:unexpected spaces around keyword / parameter equals
+474,34,E,E251:unexpected spaces around keyword / parameter equals
+478,37,E,E251:unexpected spaces around keyword / parameter equals
+478,39,E,E251:unexpected spaces around keyword / parameter equals
+479,35,E,E251:unexpected spaces around keyword / parameter equals
+479,37,E,E251:unexpected spaces around keyword / parameter equals
+480,36,E,E251:unexpected spaces around keyword / parameter equals
+480,38,E,E251:unexpected spaces around keyword / parameter equals
+482,37,E,E251:unexpected spaces around keyword / parameter equals
+482,39,E,E251:unexpected spaces around keyword / parameter equals
+483,35,E,E251:unexpected spaces around keyword / parameter equals
+483,37,E,E251:unexpected spaces around keyword / parameter equals
+484,29,E,E251:unexpected spaces around keyword / parameter equals
+484,31,E,E251:unexpected spaces around keyword / parameter equals
+485,29,E,E251:unexpected spaces around keyword / parameter equals
+485,31,E,E251:unexpected spaces around keyword / parameter equals
+488,34,E,E251:unexpected spaces around keyword / parameter equals
+488,36,E,E251:unexpected spaces around keyword / parameter equals
+489,32,E,E251:unexpected spaces around keyword / parameter equals
+489,34,E,E251:unexpected spaces around keyword / parameter equals
+490,35,E,E251:unexpected spaces around keyword / parameter equals
+490,37,E,E251:unexpected spaces around keyword / parameter equals
+491,35,E,E251:unexpected spaces around keyword / parameter equals
+491,37,E,E251:unexpected spaces around keyword / parameter equals
+498,32,E,E251:unexpected spaces around keyword / parameter equals
+498,34,E,E251:unexpected spaces around keyword / parameter equals
+503,31,E,E251:unexpected spaces around keyword / parameter equals
+503,33,E,E251:unexpected spaces around keyword / parameter equals
+504,40,E,E251:unexpected spaces around keyword / parameter equals
+504,42,E,E251:unexpected spaces around keyword / parameter equals
+505,33,E,E251:unexpected spaces around keyword / parameter equals
+505,35,E,E251:unexpected spaces around keyword / parameter equals
+506,35,E,E251:unexpected spaces around keyword / parameter equals
+506,37,E,E251:unexpected spaces around keyword / parameter equals
+507,35,E,E251:unexpected spaces around keyword / parameter equals
+507,37,E,E251:unexpected spaces around keyword / parameter equals
+510,34,E,E251:unexpected spaces around keyword / parameter equals
+510,36,E,E251:unexpected spaces around keyword / parameter equals
+511,32,E,E251:unexpected spaces around keyword / parameter equals
+511,34,E,E251:unexpected spaces around keyword / parameter equals
+512,35,E,E251:unexpected spaces around keyword / parameter equals
+512,37,E,E251:unexpected spaces around keyword / parameter equals
+513,35,E,E251:unexpected spaces around keyword / parameter equals
+513,37,E,E251:unexpected spaces around keyword / parameter equals
+520,32,E,E251:unexpected spaces around keyword / parameter equals
+520,34,E,E251:unexpected spaces around keyword / parameter equals
+524,35,E,E251:unexpected spaces around keyword / parameter equals
+524,37,E,E251:unexpected spaces around keyword / parameter equals
+525,35,E,E251:unexpected spaces around keyword / parameter equals
+525,37,E,E251:unexpected spaces around keyword / parameter equals
+526,33,E,E251:unexpected spaces around keyword / parameter equals
+526,35,E,E251:unexpected spaces around keyword / parameter equals
+530,34,E,E251:unexpected spaces around keyword / parameter equals
+530,36,E,E251:unexpected spaces around keyword / parameter equals
+531,32,E,E251:unexpected spaces around keyword / parameter equals
+531,34,E,E251:unexpected spaces around keyword / parameter equals
+532,35,E,E251:unexpected spaces around keyword / parameter equals
+532,37,E,E251:unexpected spaces around keyword / parameter equals
+533,35,E,E251:unexpected spaces around keyword / parameter equals
+533,37,E,E251:unexpected spaces around keyword / parameter equals
+538,32,E,E251:unexpected spaces around keyword / parameter equals
+538,34,E,E251:unexpected spaces around keyword / parameter equals
+543,1,E,E305:expected 2 blank lines after class or function definition, found 1
+550,1,E,E302:expected 2 blank lines, found 1
+554,1,E,E305:expected 2 blank lines after class or function definition, found 1
+561,1,E,E305:expected 2 blank lines after class or function definition, found 0
+584,80,E,E501:line too long (132 > 79 characters)
+585,80,E,E501:line too long (134 > 79 characters)
+586,80,E,E501:line too long (104 > 79 characters)
+587,80,E,E501:line too long (106 > 79 characters)
+595,80,E,E501:line too long (100 > 79 characters)
+596,80,E,E501:line too long (102 > 79 characters)
+615,1,E,E303:too many blank lines (3)
+617,1,E,E302:expected 2 blank lines, found 1
+622,1,E,E302:expected 2 blank lines, found 1
+627,1,E,E302:expected 2 blank lines, found 1
+633,1,E,E305:expected 2 blank lines after class or function definition, found 1
+636,1,E,E302:expected 2 blank lines, found 1
+671,28,E,E251:unexpected spaces around keyword / parameter equals
+671,30,E,E251:unexpected spaces around keyword / parameter equals
+671,46,E,E251:unexpected spaces around keyword / parameter equals
+671,48,E,E251:unexpected spaces around keyword / parameter equals
+674,37,E,E261:at least two spaces before inline comment
+Error 2021-01-21 20:06:29: stderr jediProxy Error (stderr) /home/arco/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/home/arco/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/home/arco/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/home/arco/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+
