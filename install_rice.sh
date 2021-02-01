@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install dependencies
-sudo pacman -S nodejs npm yarn nitrogen fish
+sudo pacman -S nodejs npm yarn nitrogen fish exa bat ripgrep fd
 
 # Install Anaconda
 curl -O https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
