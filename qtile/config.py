@@ -491,7 +491,7 @@ def init_widgets_list():
                         foreground=colors[0],
                         background=colors[1],
                         padding = -6.50196,
-                        fontsize = 53
+                        fontsize = 120
                         ),
                widget.TextBox(
                         font="FontAwesome",
@@ -516,7 +516,7 @@ def init_widgets_list():
                         foreground=colors[1],
                         background=colors[0],
                         padding = -6.50196,
-                        fontsize = 53
+                        fontsize = 120
                         ),
                widget.TextBox(
                         font="FontAwesome",
@@ -539,7 +539,7 @@ def init_widgets_list():
                         foreground=colors[0],
                         background=colors[1],
                         padding = -6.50196,
-                        fontsize = 53
+                        fontsize = 120
                         ),
                widget.Systray(
                         background=colors[1],
