@@ -10,8 +10,8 @@ bash Anaconda3-2020.11-Linux-x86_64.sh
 # add ricemood coloring script
 yarn add ricemood
 
-# Install the compositor
-yay -S picom-jonaburg-git
+# Install the compositor and emoji support
+yay -S picom-jonaburg-git ttf-joypixels
 
 # Migrate config  folders settings
 cp -r kitty ~/.config/
