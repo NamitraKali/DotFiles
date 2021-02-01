@@ -7,7 +7,7 @@ sudo pacman -S nodejs npm yarn nitrogen fish
 yarn add ricemood
 
 # Install the compositor
-sudo yay -S jonaburg-picom-git
+sudo yay -S picom-jonaburg-git
 
 # Migrate config  folders settings
 cp -r kitty ~/.config/
