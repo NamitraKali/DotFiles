@@ -652,8 +652,6 @@ floating_types = ["notification", "toolbar", "splash", "dialog"]
 @hook.subscribe.startup
 def startup():
     os.system(
-        "nitrogen --restore &" +
-	"picom -b --config ~/.config/qtile/scripts/picom.conf
         )
 
 
