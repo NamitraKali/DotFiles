@@ -3,6 +3,10 @@
 # Install dependencies
 sudo pacman -S nodejs npm yarn nitrogen fish
 
+# Install Anaconda
+curl -O https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
+bash Anaconda3-2020.11-Linux-x86_64.sh
+
 # add ricemood coloring script
 yarn add ricemood
 
@@ -20,6 +24,7 @@ nitrogen ~/Pictures/Wallpapers/IntoTheVerse.png
 
 # Configure our Fish shell
 curl -fsSL https://starship.rs/install.sh | bash
-echo 'starship init fish | source' >> ~/.config/fish/config.fish
+cp -r fish ~/.config/
+#echo 'starship init fish | source' >> ~/.config/fish/config.fish
 cp starship.toml ~/.config/
 chsh -s /bin/fish
