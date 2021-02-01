@@ -11,7 +11,7 @@ sudo bash Anaconda3-2020.11-Linux-x86_64.sh
 yarn add ricemood
 
 # Install the compositor
-sudo yay -S picom-jonaburg-git
+yay -S picom-jonaburg-git
 
 # Migrate config  folders settings
 cp -r kitty ~/.config/
