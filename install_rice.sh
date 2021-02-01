@@ -5,7 +5,7 @@ sudo pacman -S nodejs npm yarn nitrogen fish exa bat ripgrep fd
 
 # Install Anaconda
 curl -O https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
-bash Anaconda3-2020.11-Linux-x86_64.sh
+sudo bash Anaconda3-2020.11-Linux-x86_64.sh
 
 # add ricemood coloring script
 yarn add ricemood
