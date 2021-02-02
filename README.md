@@ -6,4 +6,4 @@ Some of the features I've set are:
 - Custom keybindings to suit my workflow
 - Changing the default shell to [fish](https://fishshell.com/)
 - Use of the [Starship prompt](https://starship.rs/) to show custom information in your terminal
-- Use of the [ricemood script](https://github.com/fhadiel/ricemood) to sync colour theme based on my desktop wallpaper
+- Use of the [ricemood script](https://github.com/fhadiel/ricemood) to sync theme coloring based on my desktop wallpaper
